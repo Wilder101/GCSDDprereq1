@@ -1,17 +1,27 @@
 # GCSDD prereq 1
 
-**University of Washington | Bothell (UWB)
-School of Science, Technology, Engineering, & Mathematics
-Graduate Certificate in Software Design and Development (GCSDD)
-Prerequisite Sample Coursework number 1 of 4**
+**University of Washington | Bothell (UWB)**
+
+**School of Science, Technology, Engineering, & Mathematics**
+
+**Graduate Certificate in Software Design and Development (GCSDD)**
+
+**Prerequisite Sample Coursework number 1 of 4**
+
 
 May 14, 2023
+
 Bender Rule: C++
 
+
 From UWB Computing & Software Systems (CSS) 142:
+
 Programming Competency Self-Assessment: First Assessment
+
 "Batch processing at a soft drink distributorship"
-See "CSS142-SampleCoursework.pdf" for program specification
+
+See "CSS142-SampleCoursework.pdf" for program specification.
+
 
 Note: implemented in C++ rather than Java as per GCSDD curriculum.
 
