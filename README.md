@@ -30,3 +30,5 @@ References:
 [UWB STEM Graduate Certificate Prerequisite Sample Coursework](https://www.uwb.edu/stem/graduate/gcsdd/sample-coursework) 
 
 [UWB GCSDD Overview](https://www.uwb.edu/stem/graduate/gcsdd)
+
+Program run screenshot: ![Program run screenshot](https://github.com/Wilder101/GCSDDprereq1/blob/master/screenshotRun.png?raw=true)
