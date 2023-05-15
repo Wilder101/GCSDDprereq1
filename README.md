@@ -26,5 +26,7 @@ See "CSS142-SampleCoursework.pdf" for program specification.
 Note: implemented in C++ rather than Java as per GCSDD curriculum.
 
 References:
+
 [UWB STEM Graduate Certificate Prerequisite Sample Coursework](https://www.uwb.edu/stem/graduate/gcsdd/sample-coursework) 
+
 [UWB GCSDD Overview](https://www.uwb.edu/stem/graduate/gcsdd)
