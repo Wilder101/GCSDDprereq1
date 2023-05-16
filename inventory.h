@@ -24,7 +24,6 @@ using namespace std;
 // SoftDrinkInventory class declaration
 class SoftDrinkInventory 
 {
-    
   public:       
     SoftDrinkInventory();     // Constructor 
     ~SoftDrinkInventory();    // Destructor 
