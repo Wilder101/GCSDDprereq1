@@ -7,7 +7,7 @@
 *   Dr. Emily M. Bender Rule: C++
 * 
 *   From UWB Computing & Software Systems (CSS) 142:
-*   Programming Competency Self-Assessment: First Assessment (one four)
+*   Programming Competency Self-Assessment: First Assessment (one of four)
 *   "Batch processing at a soft drink distributorship"
 *   
 *   main.cpp
